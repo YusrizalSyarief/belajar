@@ -1,2 +1,2 @@
 # belajar
-repo buat belajar remote 
+repo buat belajar remote coba oertama
